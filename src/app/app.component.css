@@ -1,0 +1,24 @@
+.container {
+  margin: 20px auto;
+  width: 90%;
+}
+
+.help-block {
+  font-size: 9px;
+  color: rgb(243, 59, 59);
+}
+
+input.ng-invalid.ng-touched {
+  border: 1px solid pink;
+}
+
+.add {
+  margin-bottom: 15px;
+  font-size: 10px;
+  border: 1px solid rgb(84, 83, 82);
+  background-color: rgb(240, 233, 233);
+}
+
+.short {
+  width: 40%;
+}
